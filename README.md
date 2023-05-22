@@ -1,3 +1,5 @@
+![Alt text](https://github.com/hibapoctep/Sentinel-1/blob/cdccd033b77a0267c7f45c745e8e0fd53ecf766b/INTERREG-HIBA.jpg)
+
 # Manejo de datos Sentinel-2 a través del servicio Google Earth Engine
 
 En la carpeta code se encuentra los siguientes cuadernos desarrollados en Google Colaboratory para el uso de datos Sentinel-2:
